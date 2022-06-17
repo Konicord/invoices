@@ -28,11 +28,11 @@ You can, but I don't recommend it as it's a small example application.
 
 > How did you do that with the print feature?
 
-Obviously with JavaScript, check out the assets folder or [click here]()
+Obviously with JavaScript, check out the assets folder or [click here](https://github.com/vKxni/invoices/blob/ca284fef9ccb6476262ba3ae2b9646f87c44d2af/assets/js/pdf.js#L11)
 
 > How can I change the details/informations displayed in the documents?
 
-You can directly edit the files [here]()
+You can directly edit the files [here](https://github.com/vKxni/invoices/blob/master/lib/billing.ex)
 
 
 <hr>
@@ -59,4 +59,4 @@ You can directly edit the files [here]()
   <a href="https://discord.gg/3eNaWPhWZE" target="blank"><img src="demo/print.png" width="720" heigth="500" alt="Print Example" /></a>
 </p>
 
-
+Have fun!
